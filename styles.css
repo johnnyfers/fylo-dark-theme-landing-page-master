@@ -240,7 +240,7 @@ footer{
 }
 
 .email::before{
-    content: url('/images/icon-email.svg');
+    content: url('./images/icon-email.svg');
     margin-right: 10px;
 }
 
